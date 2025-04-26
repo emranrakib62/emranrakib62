@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android App Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="emranrakib62" /> </p>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-26%20082819.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-25T02%3A31%3A53.027Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F0dc7415e4a9945de%2FScreenshot%25202025-04-26%2520082819.png%3FExpires%3D1840242713%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D3KMKPW~2eLP4F8rXo-iftDBlh-t69cJR7pukUJHgc7RCHw5c3bY3Q7Giu5ePY8rEJ9~pzqgLRguQHoMs6xEdiPGC3YLb8hvh1mVr-zdE2S6my59ERkNVUGbgBWYIEsiPeK2k-iPZpvirwJg7LdLoZgIbJdY0HrHtbB8OpMpPlCszQPbK~1ialSH0tKK~KAKxTK9gZJhYzKOVT4fpZIQLyWd0JKjcl5JCQT1sI3ZtIFv47G5Gt3dzeh9rQb372xH-D17pHK2zOuAjYRO1K-bdkkyGjnHK-9Q1m2GTXppPS2TfgP8y23xj18h91wYCFykvDdF5yzs3KBe4D24KeXpoow__%22%7D)&color=0e75b6&style=flat" alt="emranrakib62" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emranrakib62" alt="emranrakib62" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
