@@ -13,10 +13,10 @@
 
 ---
 
-### 📸 Personal Photo
+### 📸 Certificates
 
 <p align="center">
-  <img src="https://github.com/emranrakib62/emranrakib62/blob/main/myphoto.jpg?raw=true" width="250" alt="Emranul Hoque" />
+  <img src="https://github.com/user-attachments/assets/27ab27f0-51f5-4296-82b1-0d63b7e2049b?raw=true" width="400" alt="Certificate of Emranul Hoque" />
 </p>
 
 ---
