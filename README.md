@@ -16,8 +16,11 @@
 ### 📸 Certificates
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27ab27f0-51f5-4296-82b1-0d63b7e2049b?raw=true" width="400" alt="Certificate of Emranul Hoque" />
+  <img src="https://github.com/user-attachments/assets/27ab27f0-51f5-4296-82b1-0d63b7e2049b?raw=true" width="400" alt="Certificate 1 of Emranul Hoque" />
+  <img src="https://github.com/user-attachments/assets/27ab27f0-51f5-4296-82b1-0d63b7e2049b?raw=true" width="400" alt="Certificate 2 of Emranul Hoque" />
+  <img src="https://github.com/user-attachments/assets/9228a28c-ed90-4b06-a53d-c8d7a5a94524?raw=true" width="400" alt="Certificate 3 of Emranul Hoque" />
 </p>
+
 
 ---
 
@@ -77,4 +80,4 @@
 
 ---
 
-✨ *Feel free to connect with me and check out my repositories!*
+
