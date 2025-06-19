@@ -16,11 +16,15 @@
 ### 📸 Certificates
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/27ab27f0-51f5-4296-82b1-0d63b7e2049b?raw=true" width="400" alt="Certificate 1 of Emranul Hoque" />
-  <img src="https://github.com/user-attachments/assets/9228a28c-ed90-4b06-a53d-c8d7a5a94524?raw=true" width="400" alt="Certificate 2 of Emranul Hoque" />
-  <img width="301" alt="image" src="https://github.com/user-attachments/assets/de99591c-42c3-44d4-885f-d6eec7b33f9e" />
+  ![Screenshot 2025-06-18 213024](https://github.com/user-attachments/assets/77aa15c8-a88e-44b9-adf5-b5850f54a515)
 
-  <img src="https://github.com/user-attachments/assets/95efb5f3-b8ca-4553-a37a-89c2693265d4?raw=true" width="400" alt="Certificate 4 of Emranul Hoque" />
+  ![Screenshot 2025-06-18 213520](https://github.com/user-attachments/assets/1e9b5294-1966-4557-8159-28d0424cc07a)
+
+  <img width="301" alt="image" src="https://github.com/user-attachments/assets/de99591c-42c3-44d4-885f-d6eec7b33f9e" />
+  ![Screenshot 2025-06-18 213706](https://github.com/user-attachments/assets/419fd74f-2aee-4397-9627-9324fb86fe02)
+
+
+
 </p>
 
 
