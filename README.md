@@ -13,14 +13,7 @@
 
 ---
 
-### 📸 Certificates
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/77aa15c8-a88e-44b9-adf5-b5850f54a515" width="300" alt="Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/1e9b5294-1966-4557-8159-28d0424cc07a" width="300" alt="Screenshot 2" />
-  <img src="https://github.com/user-attachments/assets/de99591c-42c3-44d4-885f-d6eec7b33f9e" width="300" alt="Screenshot 3" />
-  <img src="https://github.com/user-attachments/assets/419fd74f-2aee-4397-9627-9324fb86fe02" width="300" alt="Screenshot 4" />
-</p>
 
 
 
