@@ -22,8 +22,14 @@
 
 📚 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/Hilt-Android%20DI-blueviolet?style=for-the-badge&logo=android" alt="Hilt" /> <img src="https://img.shields.io/badge/MVVM-Architecture-success?style=for-the-badge&logo=android" alt="MVVM" /> <img src="https://img.shields.io/badge/Retrofit-Networking-orange?style=for-the-badge&logo=android" alt="Retrofit" /> <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emranrakib62&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrakib62&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=emranrakib62&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+
+
+
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=emranrakib62&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" /> </p>
 <!-- 🌐 Connect with Me -->
@@ -37,7 +43,29 @@
   <a href="https://www.linkedin.com/in/emranul-hoque-479884263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  
 </p>
+
+## 🌍 Online Judge Profiles
+<p align="center">
+  <!-- Beecrowd -->
+  <a href="https://judge.beecrowd.com/en/profile/745319" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-6A5ACD?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Beecrowd Profile" />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Emranul_Hoque" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/emranulhoque" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+</p>
+
+
 
 
 ⚙️ Languages and Tools
