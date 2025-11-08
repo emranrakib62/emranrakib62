@@ -6,25 +6,25 @@
 
 📱 Building intuitive and efficient native Android apps
 
-🌱 Currently learning Hilt, MVVM architecture, Retrofit, Firebase, Jetpack Compose
+🌱 Currently learning Hilt, MVVM architecture, Retrofit, php Api, Flutter,Dart.
 
 🤝 Looking to collaborate on Android projects and open-source contributions
 
 💡 Skills
 🚀 Languages & Technologies
-🖥 Programming: Java, Kotlin, C, C++
+🖥 Programming: Java, Kotlin, C, C++, Dart, Python.
 
-📱 Android Development: XML, Java, Kotlin, Firebase
+📱 Android Development: XML, Java, Kotlin, Firebase, Dart, Flutter.
 
-🗄️ Database: MySQL, Firebase Realtime DB
+🗄️ Database: MySQL, Firebase Realtime DB.
 
-💻 Tools: Android Studio, Git & GitHub
+💻 Tools: Android Studio, Git & GitHub, Vs Code.
 
 📚 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/Hilt-Android%20DI-blueviolet?style=for-the-badge&logo=android" alt="Hilt" /> <img src="https://img.shields.io/badge/MVVM-Architecture-success?style=for-the-badge&logo=android" alt="MVVM" /> <img src="https://img.shields.io/badge/Retrofit-Networking-orange?style=for-the-badge&logo=android" alt="Retrofit" /> <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Hilt-Android%20DI-blueviolet?style=for-the-badge&logo=android" alt="Hilt" /> <img src="https://img.shields.io/badge/MVVM-Architecture-success?style=for-the-badge&logo=android" alt="MVVM" /> <img src="https://img.shields.io/badge/Retrofit-Networking-orange?style=for-the-badge&logo=android" alt="Retrofit" /> <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-
+ </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emranrakib62&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrakib62&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=emranrakib62&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
 
