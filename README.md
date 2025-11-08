@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Emranul Hoque</h1> <h3 align="center">A passionate Android App Developer from Bangladesh</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">Hi 👋, I'm Emranul Hoque</h1> <h3 align="center">A passionate Android & Flutter App Developer from Bangladesh</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 🚀 About Me
 💡 Passionate about Android app development and problem-solving
 
-⚡ Skilled in Java, Kotlin, C, C++
+⚡ Skilled in Java, Kotlin, C, C++, Dart.
 
 📱 Building intuitive and efficient native Android apps
 
@@ -94,9 +94,7 @@
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/flutter/logos/main/flutter-logo-sharing.png" alt="Flutter" width="40" height="40"/>
-  </a>
+  
 </p>
 
 <p align="center">"Great things take time. Stay consistent, keep building, and success will come your way." 🌟</p>
