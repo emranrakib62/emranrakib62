@@ -1,100 +1,128 @@
-<h1 align="center">Hi 👋, I'm Emranul Hoque</h1> <h3 align="center">A passionate Android & Flutter App Developer from Bangladesh</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-🚀 About Me
-💡 Passionate about Android & Flutter app development and problem-solving and AI Application
+<h1 align="center">Hi 👋, I'm Emranul Hoque</h1>
+<h3 align="center">🚀 Android & Flutter App Developer | Passionate Problem Solver | AI Enthusiast</h3>
 
-⚡ Skilled in Java,Dart, C, C++,Kotlin,python.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-📱 Building intuitive and efficient  Android And Flutter Application
+---
 
-🌱 Currently Learning Flutter,Dart.
+## 🚀 About Me
 
-🤝 Looking to collaborate on Android and Flutter projects and open-source contributions
+💡 I am a passionate developer focused on building **Android and Flutter applications** that are intuitive, efficient, and user-friendly.  
 
-💡 Skills
-🚀 Languages & Technologies
-🖥 Programming: Java,Dart, Kotlin, C, C++, , Python.
+⚡ I enjoy solving real-world problems through code and exploring **AI-driven applications**.  
 
-📱App Development: XML, Java, Kotlin, Firebase, Dart, Flutter.
+📱 I love turning ideas into impactful mobile apps.  
 
-🗄️ Database: MySQL, Firebase Realtime DB.
+🌱 Currently deepening my knowledge in **Flutter, Dart, and modern app architectures**.  
 
-💻 Tools: Android Studio, Git & GitHub, Vs Code.
+🤝 Open to collaborating on **Android, Flutter, and open-source projects**.  
 
-📚 Currently Learning
- <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
- </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emranrakib62&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrakib62&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=emranrakib62&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+---
 
+## 💡 Skills & Technologies
 
+### 🚀 Programming Languages
+- Java | Kotlin | Dart | C | C++ | Python  
 
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=emranrakib62&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" /> </p>
-<!-- 🌐 Connect with Me -->
+### 📱 App Development
+- Android (XML, Java, Kotlin)  
+- Flutter (Dart)  
+- Firebase Integration  
+
+### 🗄️ Databases
+- MySQL  
+- Firebase Realtime Database  
+
+### 💻 Tools & Platforms
+- Android Studio  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emranrakib62&show_icons=true&count_private=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranrakib62&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emranrakib62&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emranrakib62&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.facebook.com/e.h.rakib.529335" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@sbcian29" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/emranul-hoque-479884263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  
 </p>
 
-## 🌍 online judge profile
+---
+
+## 🌍 Online Judge Profiles
+
 <p align="center">
-  <!-- Beecrowd -->
   <a href="https://judge.beecrowd.com/en/profile/745319" target="_blank">
-    <img src="https://img.shields.io/badge/Beecrowd-6A5ACD?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Beecrowd Profile" />
+    <img src="https://img.shields.io/badge/Beecrowd-6A5ACD?style=for-the-badge&logo=hackerearth&logoColor=white" />
   </a>
-
-  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Emranul_Hoque" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-
-  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/emranulhoque" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
+---
 
+## ⚙️ Languages & Tools
 
-
-⚙️ Language and Tools
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  </a>
-  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/>
 </p>
 
-<p align="center">"Great things take time. Stay consistent, keep building, and success will come your way." 🌟</p>
+---
+
+<p align="center">
+✨ <b>"Great things take time. Stay consistent, keep building, and success will follow."</b> ✨
+</p>
