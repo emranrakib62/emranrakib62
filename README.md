@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Emranul Hoque</h1> <h3 align="center">A passionate Android & Flutter App Developer from Bangladesh</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=emranrakib62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 🚀 About Me
-💡 Passionate about Android app development and problem-solving
+💡 Passionate about Android & Flutter app development and problem-solving and AI Application
 
-⚡ Skilled in Java, Kotlin, C, C++, Dart.
+⚡ Skilled in Java,Dart, C, C++,Kotlin,python.
 
-📱 Building intuitive and efficient native Android apps
+📱 Building intuitive and efficient  Android And Flutter Application
 
-🌱 Currently learning Hilt, MVVM architecture, Retrofit, php Api, Flutter,Dart.
+🌱 Currently Learning Flutter,Dart.
 
-🤝 Looking to collaborate on Android projects and open-source contributions
+🤝 Looking to collaborate on Android and Flutter projects and open-source contributions
 
 💡 Skills
 🚀 Languages & Technologies
-🖥 Programming: Java, Kotlin, C, C++, Dart, Python.
+🖥 Programming: Java,Dart, Kotlin, C, C++, , Python.
 
-📱 Android Development: XML, Java, Kotlin, Firebase, Dart, Flutter.
+📱App Development: XML, Java, Kotlin, Firebase, Dart, Flutter.
 
 🗄️ Database: MySQL, Firebase Realtime DB.
 
 💻 Tools: Android Studio, Git & GitHub, Vs Code.
 
 📚 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/Hilt-Android%20DI-blueviolet?style=for-the-badge&logo=android" alt="Hilt" /> <img src="https://img.shields.io/badge/MVVM-Architecture-success?style=for-the-badge&logo=android" alt="MVVM" /> <img src="https://img.shields.io/badge/Retrofit-Networking-orange?style=for-the-badge&logo=android" alt="Retrofit" /> <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+ <img src="https://img.shields.io/badge/Firebase-Database-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
  </p>
